@@ -38,7 +38,7 @@
 			});
 
 		// Gallery.
-			$('.gallery').poptrox();
+			/*$('.gallery').poptrox();*/
 
 	});
 
